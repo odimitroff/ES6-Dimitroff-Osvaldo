@@ -15,4 +15,3 @@ console.log(crearAlumno('Lio', 'Mesi', '33', ['TLPA','Matematica','Ingles']))
 
 const devolverFecha = (...arguments) => 'Hoy es '+arguments[0]+'/'+arguments[1]+'/'+arguments[2];
 console.log(devolverFecha('10','09','2020'))
-© 2020 GitHub, Inc.
